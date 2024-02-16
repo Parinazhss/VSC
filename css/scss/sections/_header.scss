@@ -1,0 +1,14 @@
+header {
+   
+
+    .container {
+        display: grid;
+        align-items: center;
+        grid-template-columns: 1fr auto;
+        grid-template-areas:  "logo mobile";
+        gap: 40px;
+        
+        
+
+    }
+}
